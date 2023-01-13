@@ -8,7 +8,7 @@
 - Data Elasticsearch
 - Docker
 - Elasticsearch
-- Kinban
+- Kibana
 
 ## To Run Docker Compose File
 ``` 
